@@ -1,18 +1,11 @@
 ## ClassA Agency - Institutional Website
 
 Welcome to the repository for the ClassA Agency's institutional website! This project showcases the capabilities of our front-end development team and provides a platform for lead generation.
+<br/>
+<br/>
 
-### Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Lead Capture Functionality](#lead-capture-functionality)
-- [SEO Optimization](#seo-optimization)
-- [Contributing](#contributing)
-
-![alt text](image.png)
+![Class a image](image.png)
 
 ## Overview
 
@@ -28,7 +21,7 @@ The ClassA Agency website is designed to demonstrate our expertise in digital ma
 ## Technologies Used
 
 - **Front-End:** Next.js, React, Tailwind CSS
-- **Back-End:** Node.js, Express, MongoDB
+- **Back-End:** Next(nodeJs), MongoDB
 - **Deployment:** Vercel
 
 ## Installation
@@ -38,8 +31,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/classa-agency.git
-   cd classa-agency
+   git clone https://github.com/LucasFonseca0/AgenciaClassA---english
    ```
 
 2. **Install Dependencies:**
