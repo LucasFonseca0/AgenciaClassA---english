@@ -23,7 +23,7 @@ The ClassA Agency website is designed to demonstrate our expertise in digital ma
 ## Technologies Used
 
 - **Front-End:** Next.js, React, Tailwind CSS
-- **Back-End:** Next(nodeJs), MongoDB
+- **Back-End:** Next(nodeJs),Mongoose, MongoDB
 - **Deployment:** Vercel
 
 ## Installation
