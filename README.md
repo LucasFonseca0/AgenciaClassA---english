@@ -3,7 +3,9 @@
 Welcome to the repository for the ClassA Agency's institutional website! This project showcases the capabilities of our front-end development team and provides a platform for lead generation.
 <br/>
 <br/>
-
+Deploy: <a href="https://class-a.vercel.app">Click here</a>
+<br/>
+<br/>
 
 ![Class a image](image.png)
 
@@ -21,7 +23,7 @@ The ClassA Agency website is designed to demonstrate our expertise in digital ma
 ## Technologies Used
 
 - **Front-End:** Next.js, React, Tailwind CSS
-- **Back-End:** Next(nodeJs), MongoDB
+- **Back-End:** Next(nodeJs),Mongoose, MongoDB
 - **Deployment:** Vercel
 
 ## Installation
