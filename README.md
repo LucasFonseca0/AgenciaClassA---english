@@ -3,7 +3,7 @@
 Welcome to the repository for the ClassA Agency's institutional website! This project showcases the capabilities of our front-end development team and provides a platform for lead generation.
 <br/>
 <br/>
-Deploy: <a href="https://www.class-a.vercel.app">Click here</a>
+Deploy: <a href="https://class-a.vercel.app">Click here</a>
 <br/>
 <br/>
 
